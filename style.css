@@ -1,0 +1,151 @@
+@charset 'utf-8';
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #f5f5f5;
+
+}
+
+header{
+    background-color: #2c3e50;
+    color: #ffffff;
+    text-align: center;
+    border: 5% solid #2c3e50;
+    padding: 5%;
+}
+
+nav{
+    background-color: white;
+    border: 1% solid white;
+    padding: 1%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.078);
+}
+
+a{
+    margin: 5px;
+}
+
+h1{
+    margin: 0%;
+    background-color: white;
+    color: lightskyblue;
+    
+    box-shadow: 0px 5px 0px rgba(0, 0, 0, 0.04);
+}
+
+section#Sobre{
+    background-color: white;
+    border-top: 5%;
+    border-radius: 10px;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    margin: 5%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.203);
+}
+
+section#Motivo{
+    background-color: white;
+    border: 10% solid white;
+    border-radius: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: 5%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.203);
+}
+
+div.Géneticos{
+    background-color: rgb(233, 231, 231);
+    border: 1% solid white;
+    border-radius: 10px;
+    padding: 1%;
+    margin-bottom: 4%;
+    text-align: center;
+    box-shadow: 0px -5px 0px rgba(56, 182, 227, 0.57);
+}
+
+div.Cérebral{
+    background-color: rgb(233, 231, 231);
+    border: 1% solid white;
+    border-radius: 10px;
+    padding: 1%;
+    margin-bottom: 4%;
+    text-align: center;
+    box-shadow: 0px -5px 0px rgba(56, 182, 227, 0.57);
+}
+
+div.Vida{
+    background-color: rgb(233, 231, 231);
+    border: 1% solid white;
+    border-radius: 10px;
+    padding: 1%;
+    margin-bottom: 4%;
+    text-align: center;
+    box-shadow: 0px -5px 0px rgba(56, 182, 227, 0.57);
+}
+
+section#Notícia{
+    background-color: white;
+    border: 10% solid white;
+    border-radius: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: 5%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.203);
+}
+
+footer{
+    background-color: white;
+    border: 10% solid white;
+    border-radius: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 5%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.203);
+}
+
+article.Estudo{
+    background-color: white;
+    border: 10% solid white;
+    border-radius: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 5%;
+    text-align: center;
+    box-shadow: -5px 0px 0px rgba(0, 0, 0, 0.203);
+}
+
+article.Avanços{
+    background-color: white;
+    border: 10% solid white;
+    border-radius: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 5%;
+    text-align: center;
+    box-shadow: -5px 0px 0px rgba(0, 0, 0, 0.203);
+}
+
+p{
+    margin: 4%;
+}
